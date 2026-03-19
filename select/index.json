@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "僕と僕",
+  "base_artist": "川崎鷹也",
+  "createdAt": "2026-03-19T02:34:26.412264Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕と僕",
+      "artist": "川崎鷹也",
+      "has_synced": true,
+      "path": "select/01_僕と僕_川崎鷹也.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕と僕",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_01_僕と僕_川崎_鷹也.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "僕と僕",
+      "artist": "川崎鷹也",
+      "has_synced": true,
+      "path": "select/localdb_01_僕と僕_川崎鷹也.lrc",
+      "repo_name": "S2sej_AVxJk"
+    }
+  ]
+}
